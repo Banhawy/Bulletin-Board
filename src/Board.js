@@ -55,7 +55,7 @@ var Board = React.createClass({
         },
         update(newText, id){
           var notes = this.state.notes.map(
-            note => (note.id != id) ? note
+            note => (note.id !== id) ? note
             : {
               ...note,
               note: newText
