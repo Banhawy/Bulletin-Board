@@ -83,4 +83,4 @@ var Board = React.createClass({
          }
       })
 
-export default App;
+export default Board ;
