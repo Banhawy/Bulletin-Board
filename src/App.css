@@ -16,7 +16,8 @@ body {
 div.board {
   background-color: 'brown';
   width: 100%;
-  background: #eab92d;
+  /*background: #eab92d;*/
+  background-image: url('bulletin-board-background.png');
 }
 
 div.note {
