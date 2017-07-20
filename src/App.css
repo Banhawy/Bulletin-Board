@@ -24,8 +24,8 @@ div.note {
   width: 150px;
   background-color: yellow;
   margin: 2px 0;
-  position: absolute;
-  /*display: inline-block;*/
+  /*position: absolute;*/
+  display: inline-block;
   margin: 2%;
   cursor: -webkit-grab;
   box-shadow: 5px 5px 15px 0 rgba(0, 0, 0, .2);
